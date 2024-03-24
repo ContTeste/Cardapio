@@ -268,7 +268,7 @@ var MENU = {
         {
             "id": "guys-caliente-margaritas-for-12",
             "img": "images/Coca-Cola.png",
-            "name": "Coca-Cola",
+            "name": "coca-cola",
             "dsc": "Guy's Caliente Margaritas for 12",
             "price": 5
         },
