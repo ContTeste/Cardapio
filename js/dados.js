@@ -1,5 +1,5 @@
 var MENU = {
-    "churrasco": [
+    "combos": [
         {
             "id": "ribs-brisket-and-burnt-ends",
             "img": "./img/cardapio/churrasco/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg",
@@ -258,26 +258,26 @@ var MENU = {
         }
     ],
     "bebidas": [
-        {
-            "id": "hong-kong-boba-tea-kit-for-6",
-            "img": "./img/cardapio/bebidas/hong-kong-boba-tea-kit-for-6.63841de36d8e5edfafa13023fc303285.jpg",
-            "name": "New Territories",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
-            "price": 59
-        },
+        // {
+        //     "id": "hong-kong-boba-tea-kit-for-6",
+        //     "img": "./img/cardapio/bebidas/hong-kong-boba-tea-kit-for-6.63841de36d8e5edfafa13023fc303285.jpg",
+        //     "name": "New Territories",
+        //     "dsc": "Hong Kong Boba Tea Kit for 6",
+        //     "price": 59
+        // },
         {
             "id": "guys-caliente-margaritas-for-12",
-            "img": "./img/cardapio/bebidas/guys-caliente-margaritas-for-12.ca8c6bc06b8f1039549385ffcebc749d.jpg",
-            "name": "Guy Fieri",
+            "img": "images/Coca-Cola.png",
+            "name": "Coca-Cola",
             "dsc": "Guy's Caliente Margaritas for 12",
-            "price": 69
+            "price": 5
         },
         {
             "id": "woodford-reserve-mint-julep-syrup",
-            "img": "./img/cardapio/bebidas/woodford-reserve-mint-julep-syrup.ef523ac7cbae5f4aba6b058207f490d2.jpg",
-            "name": "Woodford Reserve",
+            "img": "images/pepsi.png",
+            "name": "Pepsi",
             "dsc": "Woodford Reserve Mint Julep Syrup",
-            "price": 39
+            "price": 5
         },
         {
             "id": "new-orleans-hurricane-mix",
